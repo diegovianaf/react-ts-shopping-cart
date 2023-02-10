@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Backpack",
+    "price": 49.99,
+    "imgUrl": "/imgs/backpack.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 1199,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Bottle",
+    "price": 24.99,
+    "imgUrl": "/imgs/bottle.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Shoes",
+    "price": 63.79,
+    "imgUrl": "/imgs/shoes.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Earbuds",
+    "price": 99.99,
+    "imgUrl": "/imgs/earbuds.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Kindle",
+    "price": 84.93,
+    "imgUrl": "/imgs/kindle.jpg"
+  }
+]
