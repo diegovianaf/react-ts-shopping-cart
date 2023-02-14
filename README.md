@@ -36,7 +36,7 @@ During the development of this shopping cart application, I learned about the fo
 
 ## Demo
 
-ou can see a live demo of this shopping cart application at https://vite-ts-shopping-cart.netlify.app/
+You can see a live demo of this shopping cart application at https://vite-ts-shopping-cart.netlify.app/
 
 
 ## Screenshots
