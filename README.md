@@ -43,3 +43,18 @@ You can see a live demo of this shopping cart application at https://vite-ts-sho
 
 ![image](https://user-images.githubusercontent.com/92064022/218747641-335b801b-8faf-4410-bbb9-1f521b6b581f.png)
 
+
+## License
+
+[MIT](https://github.com/diegovianaf/react-ts-shopping-cart/blob/main/LICENSE)
+
+
+## Author
+
+[Diego Viana](https://www.linkedin.com/in/diegovianaf/)
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at linkedIn: [Diego Viana](https://www.linkedin.com/in/diegovianaf/)
+
